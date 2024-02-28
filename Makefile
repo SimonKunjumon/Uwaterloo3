@@ -1,1 +1,4 @@
-all: gcc -o main Exercise2.c
+all: 
+
+gcc -o main Exercise2.c
+
